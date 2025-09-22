@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Habit & Neuroscience Digest — Sept 22, 2025</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      max-width: 900px;
+      color: #333;
+      line-height: 1.5;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    header img {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+    h1 {
+      font-size: 2.2em;
+      margin-top: 20px;
+    }
+    article {
+      margin-bottom: 35px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #ccc;
+      overflow: auto;
+    }
+    h2 {
+      font-size: 1.4em;
+      color: #2F4F4F;
+      margin-bottom: 8px;
+    }
+    p {
+      font-size: 1.05em;
+    }
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .img-thumb {
+      float: right;
+      margin: 0 0 10px 10px;
+      width: 200px;
+      height: auto;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://via.placeholder.com/900x300?text=Habits+&+Neuroscience+Insights" alt="Cover: Habits & Neuroscience">
+    <h1>Habit & Neuroscience Digest — September 22, 2025</h1>
+  </header>
+
+  <article>
+    <h2>1. Neuroanatomic Structures & Neural Circuits of Habits</h2>
+    <img class="img-thumb" src="https://via.placeholder.com/200x150?text=Brain+Circuits" alt="Brain circuits">
+    <p>This review maps the key circuitry behind habit formation: dorsomedial vs dorsolateral striatum, prefrontal control, dopamine modulation etc. Emphasis on how goal‑directed behavior competes with…, and how neural plasticity in different regions shifts that balance. Useful for identifying anatomical / physiological targets for habit change. <a href="https://doi.org/10.1176/appi.neuropsych.20250046" target="_blank">Read more</a></p>
+  </article>
+
+  <article>
+    <h2>2. Motor Sequence Learning & Habit Formation in Humans</h2>
+    <img class="img-thumb" src="https://via.placeholder.com/200x150?text=Motor+Sequence+Learning" alt="Motor sequence learning">
+    <p>In the MSLT, participants train a 12‑item finger sequence; as training proceeds, people get faster/ more accurate but also more prone to “action slips” when a sequence item is omitted, indicating automaticity and growing habit at cost of flexibility. Offers a lab task that tracks habit formation behaviorally. <a href="https://link.springer.com/article/10.3758/s13415-025-01300-5" target="_blank">Read more</a></p>
+  </article>
+
+  <article>
+    <h2>3. Memory & Habits in Mental Health Outcomes</h2>
+    <img class="img-thumb" src="https://via.placeholder.com/200x150?text=Memory+&+Habits" alt="Memory & habits">
+    <p>Study shows patients often remember only ~30% of what therapy teaches, and new habits may take 18 days up to 36 weeks to really settle in. Highlights using reminders, behavior cues, and follow‑up support to ensure what’s learned becomes what’s done. <a href="https://neurosciencenews.com/memory-habit-mental-health-29290/" target="_blank">Read more</a></p>
+  </article>
+
+  <article>
+    <h2>4. Two Aspects of Action Control in Habit Support</h2>
+    <img class="img-thumb" src="https://via.placeholder.com/200x150?text=Action+Control" alt="Action control">
+    <p>Du & Haith find that response preparation (getting ready to do a habitual response) and response initiation (actually doing it) are distinct. Different experimental approaches tap these differently, which helps explain inconsistent findings in habit literature. For change, might need to target each separately. <a href="https://www.nature.com/articles/s41562-025-02215-4" target="_blank">Read more</a></p>
+  </article>
+
+  <article>
+    <h2>5. Translating Neuroscience into Habit Change Tools</h2>
+    <img class="img-thumb" src="https://via.placeholder.com/200x150?text=Brain+to+Behavior" alt="Brain to Behavior">
+    <p>This review proposes how to use neuroscience findings (on S‑R loops, dopaminergic reward, etc.) in designing interventions: implementation intentions, manipulation of cues, reinforcement schedules, goal‑directed vs habit control. Good read for bridging theory and practice. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2824%2900266-3" target="_blank">Read more</a></p>
+  </article>
+
+</body>
+</html>
